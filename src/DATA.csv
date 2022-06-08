@@ -1,0 +1,101 @@
+COMPONET_GROUP,COMPONENT,TOPIC,POTENTIAL_IMPACT,PERC_ONE_DEC_PLACE,OUTCOME,BENCHMARK_PERCENTILE
+Analytical Capability,AMAR,Combined Analytical Maturity Score,3,48,COMPETENT,48
+Analytical Capability,Released,Workflow Management,2,52,COMPETENT,52
+Analytical Capability,Released,Descriptive & Diagnostic,4,69,ESTABLISHED,80
+Data Management,Processed,Changing State,4,72,ADVANCED,66
+Data Management,Processed,Process Efficiency,5,46,COMPETENT,46
+Data Management,Stored,Granularity & Frequency,5,50,COMPETENT,66
+Data Management,Processed,Combined Data Governance,5,34,IMMATURE,40
+Data Management,Processed,Taxonomy,5,42,IMMATURE,56
+Data Management,DMSP,Data Quality,5,18,UNDEVELOPED,35
+Data Management,Processed,Flow of Data,3,21,UNDEVELOPED,38
+Data Management,Stored,Depth & Breadth,3,24,UNDEVELOPED,63
+Information Usage,Consumed,Commercial Enabler,3,76,ADVANCED,70
+Information Usage,Consumed,Empowered to Act,3,72,ADVANCED,72
+Information Usage,Consumed,Plug & Play,5,94,COMMERCIALLY SOUND,81
+Information Usage,Actioned,Investment Intention,4,55,ESTABLISHED,66
+Information Usage,Consumed,Future State,5,63,ESTABLISHED,74
+Information Usage,Actioned,Measurement,3,8,UNDEVELOPED,25
+Information Usage,Consumed,Current State,5,6,UNDEVELOPED,23
+Analytical Capability,AMAR,Simplification,4,78,ADVANCED,65
+Analytical Capability,Assessed,Future State,4,52,COMPETENT,68
+Analytical Capability,Assessed,Investment in Insight,4,59,ESTABLISHED,53
+Analytical Capability,Released,Commercial Understanding,4,61,ESTABLISHED,77
+Analytical Capability,Released,Predictive & Prescriptive,4,60,ESTABLISHED,54
+Data Management,Stored,Changing State,4,81,ADVANCED,81
+Data Management,Stored,External Data,3,51,COMPETENT,51
+Data Management,Processed,Combined Processed Score,4,65,ESTABLISHED,69
+Data Management,Processed,Technical Data Governance,4,23,UNDEVELOPED,62
+Information Usage,Actioned,Advancing Intelligence,4,81,ADVANCED,85
+Information Usage,Actioned,Current State,4,88,COMMERCIALLY SOUND,75
+Information Usage,Actioned,Future State,4,48,COMPETENT,52
+Information Usage,Actioned,Optimised Outcomes,3,46,COMPETENT,33
+Information Usage,Consumed,Appetite for data,4,50,COMPETENT,44
+Information Usage,Consumed,Connected to Insight,4,52,COMPETENT,39
+Information Usage,Consumed,Speed to Learn,4,51,COMPETENT,55
+Information Usage,Actioned,Combined Actioned Score,3,57,ESTABLISHED,51
+Information Usage,Actioned,P-Zone Value,2,58,ESTABLISHED,74
+Information Usage,Consumed,Combined Consumed Score,4,61,ESTABLISHED,77
+Information Usage,Consumed,Changing State,4,36,IMMATURE,42
+Information Usage,Actioned,Speed To Act,4,21,UNDEVELOPED,60
+Information Usage,Consumed,Refined Knowledge,4,16,UNDEVELOPED,55
+SPARCA,SPARCA,Current State,4,50,COMPETENT,54
+SPARCA,SPARCA,Combined Sparca Score,3,39,IMMATURE,45
+Analytical Capability,Assessed,Analytical Maturity Model,3,49,COMPETENT,53
+Analytical Capability,Assessed,Changing State,3,57,ESTABLISHED,68
+Analytical Capability,Assessed,Technical Know-How,3,34,IMMATURE,38
+Analytical Capability,Released,Current State,3,40,IMMATURE,46
+Analytical Capability,AMAR,Partnering on Insights,3,18,UNDEVELOPED,46
+Analytical Capability,Assessed,Operational Maturity,3,1,UNDEVELOPED,18
+Analytical Capability,Released,Combined Released Score,3,15,UNDEVELOPED,32
+Analytical Capability,Released,Insight Communication,3,7,UNDEVELOPED,46
+Data Management,Processed,Data Governance Model,3,70,ADVANCED,70
+Data Management,Stored,Combined Stored Score,3,85,COMMERCIALLY SOUND,79
+Data Management,Stored,Customer Data,3,57,ESTABLISHED,61
+Data Management,Stored,Interest in Data,1,60,ESTABLISHED,76
+Data Management,DMSP,Data Management Communication,3,26,IMMATURE,40
+Data Management,Processed,Business Metrics,3,23,UNDEVELOPED,40
+Information Usage,Actioned,Generating Value,3,74,ADVANCED,68
+Information Usage,Actioned,Changing State,1,46,COMPETENT,46
+Information Usage,Actioned,Customer Focused,3,26,IMMATURE,32
+Analytical Capability,Assessed,Resource Utilisation,2,83,ADVANCED,70
+Analytical Capability,Released,Complete Information Asset,4,80,ADVANCED,84
+Analytical Capability,Released,Changing State,2,47,COMPETENT,34
+Analytical Capability,Assessed,Commercial Interest,2,30,IMMATURE,44
+Analytical Capability,AMAR,Order vs Partner,1,17,UNDEVELOPED,34
+Analytical Capability,Assessed,Complete Insight Capability,2,8,UNDEVELOPED,47
+Data Management,Stored,Internal Data,2,46,COMPETENT,46
+Data Management,DMSP,Combined Data Management Score,4,64,ESTABLISHED,64
+Data Management,Processed,Current State,2,20,UNDEVELOPED,48
+Data Management,Stored,Capturing Data,2,19,UNDEVELOPED,58
+Information Usage,CAIA,Active Learning,2,50,COMPETENT,54
+Information Usage,CAIA,Directed Focus,2,54,COMPETENT,54
+Information Usage,Consumed,D-Zone Value,2,28,IMMATURE,42
+Information Usage,Actioned,Contributing to Outcome,2,11,UNDEVELOPED,28
+Information Usage,Consumed,Aligned to Strategy,2,9,UNDEVELOPED,37
+SPARCA,SPARCA,Changing State,2,9,UNDEVELOPED,48
+SPARCA,SPARCA,Consumption Environment Standards,4,14,UNDEVELOPED,53
+Analytical Capability,Assessed,Current State,1,86,COMMERCIALLY SOUND,73
+Analytical Capability,Assessed,Combined Assessed Score,1,54,COMPETENT,54
+Analytical Capability,Released,Future State,1,48,COMPETENT,64
+Analytical Capability,Assessed,Analytical Initiative,1,23,UNDEVELOPED,40
+Analytical Capability,Assessed,Data Management Efficiency,1,24,UNDEVELOPED,41
+Analytical Capability,Assessed,Demand Vs. Supply,1,10,UNDEVELOPED,38
+Data Management,Stored,Data Potential,1,84,ADVANCED,84
+Data Management,Processed,Commercial Data Governance,4,98,COMMERCIALLY SOUND,92
+Data Management,DMSP,Data Communication,1,49,COMPETENT,49
+Data Management,Processed,Future State,1,62,ESTABLISHED,49
+Data Management,Stored,Current State,1,55,ESTABLISHED,71
+Data Management,Stored,Future State,1,41,IMMATURE,47
+Data Management,Stored,Capture of Data,1,17,UNDEVELOPED,34
+Information Usage,CAIA,Combined Insight Activation Score,4,62,ESTABLISHED,49
+Information Usage,Actioned,Test & Learn,1,28,IMMATURE,42
+Information Usage,CAIA,Valued Intelligence,1,32,IMMATURE,46
+Information Usage,CAIA,Enabled Intelligence,1,12,UNDEVELOPED,51
+SPARCA,SPARCA,Future State,1,58,ESTABLISHED,69
+Data Management,Stored,Stored,5,32,IMMATURE,42
+Information Usage,Actioned,Actioned,5,37,IMMATURE,51
+Analytical Capability,Assessed,Assessed,5,10,UNDEVELOPED,38
+Data Management,Processed,Processed,5,62,ESTABLISHED,49
+Analytical Capability,Released,Released,1,48,COMPETENT,64
+Information Usage,Consumed,Consumed,5,50,COMPETENT,78
