@@ -20,7 +20,7 @@
  {
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
-  "TOPIC": "Descriptive &amp; Diagnostic",
+  "TOPIC": "Descriptive & Diagnostic",
   "POTENTIAL_IMPACT": 4,
   "PERC_ONE_DEC_PLACE": 69,
   "OUTCOME": "ESTABLISHED",
@@ -47,7 +47,7 @@
  {
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
-  "TOPIC": "Granularity &amp; Frequency",
+  "TOPIC": "Granularity and Frequency",
   "POTENTIAL_IMPACT": 5,
   "PERC_ONE_DEC_PLACE": 50,
   "OUTCOME": "COMPETENT",
@@ -92,7 +92,7 @@
  {
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
-  "TOPIC": "Depth &amp; Breadth",
+  "TOPIC": "Depth & Breadth",
   "POTENTIAL_IMPACT": 3,
   "PERC_ONE_DEC_PLACE": 24,
   "OUTCOME": "UNDEVELOPED",
@@ -119,7 +119,7 @@
  {
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
-  "TOPIC": "Plug &amp; Play",
+  "TOPIC": "Plug & Play",
   "POTENTIAL_IMPACT": 5,
   "PERC_ONE_DEC_PLACE": 94,
   "OUTCOME": "COMMERCIALLY SOUND",
@@ -200,7 +200,7 @@
  {
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
-  "TOPIC": "Predictive &amp; Prescriptive",
+  "TOPIC": "Predictive & Prescriptive",
   "POTENTIAL_IMPACT": 4,
   "PERC_ONE_DEC_PLACE": 60,
   "OUTCOME": "ESTABLISHED",
@@ -812,7 +812,7 @@
  {
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
-  "TOPIC": "Test &amp; Learn",
+  "TOPIC": "Test & Learn",
   "POTENTIAL_IMPACT": 1,
   "PERC_ONE_DEC_PLACE": 28,
   "OUTCOME": "IMMATURE",
