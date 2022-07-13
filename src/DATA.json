@@ -1,5 +1,6 @@
 [
  {
+  "id": 1,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "AMAR",
   "TOPIC": "Combined Analytical Maturity Score",
@@ -9,6 +10,7 @@
   "BENCHMARK_PERCENTILE": 48
  },
  {
+  "id": 2,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Workflow Management",
@@ -18,15 +20,17 @@
   "BENCHMARK_PERCENTILE": 52
  },
  {
+  "id": 3,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
-  "TOPIC": "Descriptive & Diagnostic",
+  "TOPIC": "Descriptive &amp; Diagnostic",
   "POTENTIAL_IMPACT": 4,
   "PERC_ONE_DEC_PLACE": 69,
   "OUTCOME": "ESTABLISHED",
   "BENCHMARK_PERCENTILE": 80
  },
  {
+  "id": 4,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Changing State",
@@ -36,6 +40,7 @@
   "BENCHMARK_PERCENTILE": 66
  },
  {
+  "id": 5,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Process Efficiency",
@@ -45,15 +50,17 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 6,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
-  "TOPIC": "Granularity and Frequency",
+  "TOPIC": "Granularity &amp; Frequency",
   "POTENTIAL_IMPACT": 5,
   "PERC_ONE_DEC_PLACE": 50,
   "OUTCOME": "COMPETENT",
   "BENCHMARK_PERCENTILE": 66
  },
  {
+  "id": 7,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Combined Data Governance",
@@ -63,6 +70,7 @@
   "BENCHMARK_PERCENTILE": 40
  },
  {
+  "id": 8,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Taxonomy",
@@ -72,6 +80,7 @@
   "BENCHMARK_PERCENTILE": 56
  },
  {
+  "id": 9,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "DMSP",
   "TOPIC": "Data Quality",
@@ -81,6 +90,7 @@
   "BENCHMARK_PERCENTILE": 35
  },
  {
+  "id": 10,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Flow of Data",
@@ -90,15 +100,17 @@
   "BENCHMARK_PERCENTILE": 38
  },
  {
+  "id": 11,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
-  "TOPIC": "Depth & Breadth",
+  "TOPIC": "Depth &amp; Breadth",
   "POTENTIAL_IMPACT": 3,
   "PERC_ONE_DEC_PLACE": 24,
   "OUTCOME": "UNDEVELOPED",
   "BENCHMARK_PERCENTILE": 63
  },
  {
+  "id": 12,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Commercial Enabler",
@@ -108,6 +120,7 @@
   "BENCHMARK_PERCENTILE": 70
  },
  {
+  "id": 13,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Empowered to Act",
@@ -117,15 +130,17 @@
   "BENCHMARK_PERCENTILE": 72
  },
  {
+  "id": 14,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
-  "TOPIC": "Plug & Play",
+  "TOPIC": "Plug &amp; Play",
   "POTENTIAL_IMPACT": 5,
   "PERC_ONE_DEC_PLACE": 94,
   "OUTCOME": "COMMERCIALLY SOUND",
   "BENCHMARK_PERCENTILE": 81
  },
  {
+  "id": 15,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Investment Intention",
@@ -135,6 +150,7 @@
   "BENCHMARK_PERCENTILE": 66
  },
  {
+  "id": 16,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Future State",
@@ -144,6 +160,7 @@
   "BENCHMARK_PERCENTILE": 74
  },
  {
+  "id": 17,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Measurement",
@@ -153,6 +170,7 @@
   "BENCHMARK_PERCENTILE": 25
  },
  {
+  "id": 18,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Current State",
@@ -162,6 +180,7 @@
   "BENCHMARK_PERCENTILE": 23
  },
  {
+  "id": 19,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "AMAR",
   "TOPIC": "Simplification",
@@ -171,6 +190,7 @@
   "BENCHMARK_PERCENTILE": 65
  },
  {
+  "id": 20,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Future State",
@@ -180,6 +200,7 @@
   "BENCHMARK_PERCENTILE": 68
  },
  {
+  "id": 21,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Investment in Insight",
@@ -189,6 +210,7 @@
   "BENCHMARK_PERCENTILE": 53
  },
  {
+  "id": 22,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Commercial Understanding",
@@ -198,15 +220,17 @@
   "BENCHMARK_PERCENTILE": 77
  },
  {
+  "id": 23,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
-  "TOPIC": "Predictive & Prescriptive",
+  "TOPIC": "Predictive &amp; Prescriptive",
   "POTENTIAL_IMPACT": 4,
   "PERC_ONE_DEC_PLACE": 60,
   "OUTCOME": "ESTABLISHED",
   "BENCHMARK_PERCENTILE": 54
  },
  {
+  "id": 24,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Changing State",
@@ -216,6 +240,7 @@
   "BENCHMARK_PERCENTILE": 81
  },
  {
+  "id": 25,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "External Data",
@@ -225,6 +250,7 @@
   "BENCHMARK_PERCENTILE": 51
  },
  {
+  "id": 26,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Combined Processed Score",
@@ -234,6 +260,7 @@
   "BENCHMARK_PERCENTILE": 69
  },
  {
+  "id": 27,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Technical Data Governance",
@@ -243,6 +270,7 @@
   "BENCHMARK_PERCENTILE": 62
  },
  {
+  "id": 28,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Advancing Intelligence",
@@ -252,6 +280,7 @@
   "BENCHMARK_PERCENTILE": 85
  },
  {
+  "id": 29,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Current State",
@@ -261,6 +290,7 @@
   "BENCHMARK_PERCENTILE": 75
  },
  {
+  "id": 30,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Future State",
@@ -270,6 +300,7 @@
   "BENCHMARK_PERCENTILE": 52
  },
  {
+  "id": 31,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Optimised Outcomes",
@@ -279,6 +310,7 @@
   "BENCHMARK_PERCENTILE": 33
  },
  {
+  "id": 32,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Appetite for data",
@@ -288,6 +320,7 @@
   "BENCHMARK_PERCENTILE": 44
  },
  {
+  "id": 33,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Connected to Insight",
@@ -297,6 +330,7 @@
   "BENCHMARK_PERCENTILE": 39
  },
  {
+  "id": 34,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Speed to Learn",
@@ -306,6 +340,7 @@
   "BENCHMARK_PERCENTILE": 55
  },
  {
+  "id": 35,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Combined Actioned Score",
@@ -315,6 +350,7 @@
   "BENCHMARK_PERCENTILE": 51
  },
  {
+  "id": 36,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "P-Zone Value",
@@ -324,6 +360,7 @@
   "BENCHMARK_PERCENTILE": 74
  },
  {
+  "id": 37,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Combined Consumed Score",
@@ -333,6 +370,7 @@
   "BENCHMARK_PERCENTILE": 77
  },
  {
+  "id": 38,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Changing State",
@@ -342,6 +380,7 @@
   "BENCHMARK_PERCENTILE": 42
  },
  {
+  "id": 39,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Speed To Act",
@@ -351,6 +390,7 @@
   "BENCHMARK_PERCENTILE": 60
  },
  {
+  "id": 40,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Refined Knowledge",
@@ -360,6 +400,7 @@
   "BENCHMARK_PERCENTILE": 55
  },
  {
+  "id": 41,
   "COMPONET_GROUP": "SPARCA",
   "COMPONENT": "SPARCA",
   "TOPIC": "Current State",
@@ -369,6 +410,7 @@
   "BENCHMARK_PERCENTILE": 54
  },
  {
+  "id": 42,
   "COMPONET_GROUP": "SPARCA",
   "COMPONENT": "SPARCA",
   "TOPIC": "Combined Sparca Score",
@@ -378,6 +420,7 @@
   "BENCHMARK_PERCENTILE": 45
  },
  {
+  "id": 43,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Analytical Maturity Model",
@@ -387,6 +430,7 @@
   "BENCHMARK_PERCENTILE": 53
  },
  {
+  "id": 44,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Changing State",
@@ -396,6 +440,7 @@
   "BENCHMARK_PERCENTILE": 68
  },
  {
+  "id": 45,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Technical Know-How",
@@ -405,6 +450,7 @@
   "BENCHMARK_PERCENTILE": 38
  },
  {
+  "id": 46,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Current State",
@@ -414,6 +460,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 47,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "AMAR",
   "TOPIC": "Partnering on Insights",
@@ -423,6 +470,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 48,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Operational Maturity",
@@ -432,6 +480,7 @@
   "BENCHMARK_PERCENTILE": 18
  },
  {
+  "id": 49,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Combined Released Score",
@@ -441,6 +490,7 @@
   "BENCHMARK_PERCENTILE": 32
  },
  {
+  "id": 50,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Insight Communication",
@@ -450,6 +500,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 51,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Data Governance Model",
@@ -459,6 +510,7 @@
   "BENCHMARK_PERCENTILE": 70
  },
  {
+  "id": 52,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Combined Stored Score",
@@ -468,6 +520,7 @@
   "BENCHMARK_PERCENTILE": 79
  },
  {
+  "id": 53,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Customer Data",
@@ -477,6 +530,7 @@
   "BENCHMARK_PERCENTILE": 61
  },
  {
+  "id": 54,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Interest in Data",
@@ -486,6 +540,7 @@
   "BENCHMARK_PERCENTILE": 76
  },
  {
+  "id": 55,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "DMSP",
   "TOPIC": "Data Management Communication",
@@ -495,6 +550,7 @@
   "BENCHMARK_PERCENTILE": 40
  },
  {
+  "id": 56,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Business Metrics",
@@ -504,6 +560,7 @@
   "BENCHMARK_PERCENTILE": 40
  },
  {
+  "id": 57,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Generating Value",
@@ -513,6 +570,7 @@
   "BENCHMARK_PERCENTILE": 68
  },
  {
+  "id": 58,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Changing State",
@@ -522,6 +580,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 59,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Customer Focused",
@@ -531,6 +590,7 @@
   "BENCHMARK_PERCENTILE": 32
  },
  {
+  "id": 60,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Resource Utilisation",
@@ -540,6 +600,7 @@
   "BENCHMARK_PERCENTILE": 70
  },
  {
+  "id": 61,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Complete Information Asset",
@@ -549,6 +610,7 @@
   "BENCHMARK_PERCENTILE": 84
  },
  {
+  "id": 62,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Changing State",
@@ -558,6 +620,7 @@
   "BENCHMARK_PERCENTILE": 34
  },
  {
+  "id": 63,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Commercial Interest",
@@ -567,6 +630,7 @@
   "BENCHMARK_PERCENTILE": 44
  },
  {
+  "id": 64,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "AMAR",
   "TOPIC": "Order vs Partner",
@@ -576,6 +640,7 @@
   "BENCHMARK_PERCENTILE": 34
  },
  {
+  "id": 65,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Complete Insight Capability",
@@ -585,6 +650,7 @@
   "BENCHMARK_PERCENTILE": 47
  },
  {
+  "id": 66,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Internal Data",
@@ -594,6 +660,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 67,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "DMSP",
   "TOPIC": "Combined Data Management Score",
@@ -603,6 +670,7 @@
   "BENCHMARK_PERCENTILE": 64
  },
  {
+  "id": 68,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Current State",
@@ -612,6 +680,7 @@
   "BENCHMARK_PERCENTILE": 48
  },
  {
+  "id": 69,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Capturing Data",
@@ -621,6 +690,7 @@
   "BENCHMARK_PERCENTILE": 58
  },
  {
+  "id": 70,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "CAIA",
   "TOPIC": "Active Learning",
@@ -630,6 +700,7 @@
   "BENCHMARK_PERCENTILE": 54
  },
  {
+  "id": 71,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "CAIA",
   "TOPIC": "Directed Focus",
@@ -639,6 +710,7 @@
   "BENCHMARK_PERCENTILE": 54
  },
  {
+  "id": 72,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "D-Zone Value",
@@ -648,6 +720,7 @@
   "BENCHMARK_PERCENTILE": 42
  },
  {
+  "id": 73,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Contributing to Outcome",
@@ -657,6 +730,7 @@
   "BENCHMARK_PERCENTILE": 28
  },
  {
+  "id": 74,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Aligned to Strategy",
@@ -666,6 +740,7 @@
   "BENCHMARK_PERCENTILE": 37
  },
  {
+  "id": 75,
   "COMPONET_GROUP": "SPARCA",
   "COMPONENT": "SPARCA",
   "TOPIC": "Changing State",
@@ -675,6 +750,7 @@
   "BENCHMARK_PERCENTILE": 48
  },
  {
+  "id": 76,
   "COMPONET_GROUP": "SPARCA",
   "COMPONENT": "SPARCA",
   "TOPIC": "Consumption Environment Standards",
@@ -684,6 +760,7 @@
   "BENCHMARK_PERCENTILE": 53
  },
  {
+  "id": 77,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Current State",
@@ -693,6 +770,7 @@
   "BENCHMARK_PERCENTILE": 73
  },
  {
+  "id": 78,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Combined Assessed Score",
@@ -702,6 +780,7 @@
   "BENCHMARK_PERCENTILE": 54
  },
  {
+  "id": 79,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Future State",
@@ -711,6 +790,7 @@
   "BENCHMARK_PERCENTILE": 64
  },
  {
+  "id": 80,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Analytical Initiative",
@@ -720,6 +800,7 @@
   "BENCHMARK_PERCENTILE": 40
  },
  {
+  "id": 81,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Data Management Efficiency",
@@ -729,6 +810,7 @@
   "BENCHMARK_PERCENTILE": 41
  },
  {
+  "id": 82,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Demand Vs. Supply",
@@ -738,6 +820,7 @@
   "BENCHMARK_PERCENTILE": 38
  },
  {
+  "id": 83,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Data Potential",
@@ -747,6 +830,7 @@
   "BENCHMARK_PERCENTILE": 84
  },
  {
+  "id": 84,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Commercial Data Governance",
@@ -756,6 +840,7 @@
   "BENCHMARK_PERCENTILE": 92
  },
  {
+  "id": 85,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "DMSP",
   "TOPIC": "Data Communication",
@@ -765,6 +850,7 @@
   "BENCHMARK_PERCENTILE": 49
  },
  {
+  "id": 86,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Future State",
@@ -774,6 +860,7 @@
   "BENCHMARK_PERCENTILE": 49
  },
  {
+  "id": 87,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Current State",
@@ -783,6 +870,7 @@
   "BENCHMARK_PERCENTILE": 71
  },
  {
+  "id": 88,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Future State",
@@ -792,6 +880,7 @@
   "BENCHMARK_PERCENTILE": 47
  },
  {
+  "id": 89,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Capture of Data",
@@ -801,6 +890,7 @@
   "BENCHMARK_PERCENTILE": 34
  },
  {
+  "id": 90,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "CAIA",
   "TOPIC": "Combined Insight Activation Score",
@@ -810,15 +900,17 @@
   "BENCHMARK_PERCENTILE": 49
  },
  {
+  "id": 91,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
-  "TOPIC": "Test & Learn",
+  "TOPIC": "Test &amp; Learn",
   "POTENTIAL_IMPACT": 1,
   "PERC_ONE_DEC_PLACE": 28,
   "OUTCOME": "IMMATURE",
   "BENCHMARK_PERCENTILE": 42
  },
  {
+  "id": 92,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "CAIA",
   "TOPIC": "Valued Intelligence",
@@ -828,6 +920,7 @@
   "BENCHMARK_PERCENTILE": 46
  },
  {
+  "id": 93,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "CAIA",
   "TOPIC": "Enabled Intelligence",
@@ -837,6 +930,7 @@
   "BENCHMARK_PERCENTILE": 51
  },
  {
+  "id": 94,
   "COMPONET_GROUP": "SPARCA",
   "COMPONENT": "SPARCA",
   "TOPIC": "Future State",
@@ -846,6 +940,7 @@
   "BENCHMARK_PERCENTILE": 69
  },
  {
+  "id": 95,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Stored",
   "TOPIC": "Stored",
@@ -855,6 +950,7 @@
   "BENCHMARK_PERCENTILE": 42
  },
  {
+  "id": 96,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Actioned",
   "TOPIC": "Actioned",
@@ -864,6 +960,7 @@
   "BENCHMARK_PERCENTILE": 51
  },
  {
+  "id": 97,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Assessed",
   "TOPIC": "Assessed",
@@ -873,6 +970,7 @@
   "BENCHMARK_PERCENTILE": 38
  },
  {
+  "id": 98,
   "COMPONET_GROUP": "Data Management",
   "COMPONENT": "Processed",
   "TOPIC": "Processed",
@@ -882,6 +980,7 @@
   "BENCHMARK_PERCENTILE": 49
  },
  {
+  "id": 99,
   "COMPONET_GROUP": "Analytical Capability",
   "COMPONENT": "Released",
   "TOPIC": "Released",
@@ -891,6 +990,7 @@
   "BENCHMARK_PERCENTILE": 64
  },
  {
+  "id": 100,
   "COMPONET_GROUP": "Information Usage",
   "COMPONENT": "Consumed",
   "TOPIC": "Consumed",
